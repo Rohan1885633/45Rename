@@ -94,7 +94,7 @@ async def upgradecm(bot,message):
             ],
                     [
                         InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/ROHANKUMAR188')
-			RJ_Rename_Bot'),
+	
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
