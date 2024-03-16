@@ -93,7 +93,7 @@ async def upgradecm(bot,message):
             InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://pay.upilink.in/pay/6371434453@fam')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/ROHANKUMAR188')
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/ROHANKUMAR188'),
 	
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
